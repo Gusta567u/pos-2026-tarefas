@@ -8,7 +8,55 @@
             <ingrediente>Frango</ingrediente>
             <ingrediente>Arroz</ingrediente>
         </ingredientes>
-        <preco moeda="BRL"></preco>
+        <preco moeda="BRL">35</preco>
+        <calorias>200kcal</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+
+    <prato id="P02">
+        <nome>Risoto de Filé Mignon</nome>
+        <descricao>Um boi morto com arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Filé Mignon</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">40</preco>
+        <calorias>200kcal</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+
+    <prato id="P03">
+        <nome>Risoto de Camarão</nome>
+        <descricao>Um camarão morto com arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Camarão</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">45</preco>
+        <calorias>200kcal</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+
+    <prato id="P04">
+        <nome>Risoto de Picanha</nome>
+        <descricao>Um boi morto com arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Picanha</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">50</preco>
+        <calorias>200kcal</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+
+    <prato id="P05">
+        <nome>Risoto de Risoto</nome>
+        <descricao>Arroz com mais arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Arroz</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">20</preco>
         <calorias>200kcal</calorias>
         <tempoPreparo>40min</tempoPreparo>
     </prato>
