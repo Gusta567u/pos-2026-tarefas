@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
+<cardapio>
+    <prato id="P01">
+        <nome>Risoto de Frango</nome>
+        <descricao>Uma galinha morta com arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Frango</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL"></preco>
+        <calorias>200kcal</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+</cardapio>
