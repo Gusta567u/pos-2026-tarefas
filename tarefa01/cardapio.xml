@@ -8,7 +8,7 @@
             <ingrediente>Frango</ingrediente>
             <ingrediente>Arroz</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">35</preco>
+        <preco moeda="BRL">&reais; 35</preco>
         <calorias>200kcal</calorias>
         <tempoPreparo>40min</tempoPreparo>
     </prato>
@@ -20,7 +20,7 @@
             <ingrediente>Filé Mignon</ingrediente>
             <ingrediente>Arroz</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">40</preco>
+        <preco moeda="BRL">&reais; 40</preco>
         <calorias>200kcal</calorias>
         <tempoPreparo>40min</tempoPreparo>
     </prato>
@@ -32,7 +32,7 @@
             <ingrediente>Camarão</ingrediente>
             <ingrediente>Arroz</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">45</preco>
+        <preco moeda="BRL">&reais; 45</preco>
         <calorias>200kcal</calorias>
         <tempoPreparo>40min</tempoPreparo>
     </prato>
@@ -44,7 +44,7 @@
             <ingrediente>Picanha</ingrediente>
             <ingrediente>Arroz</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">50</preco>
+        <preco moeda="BRL">&reais; 50</preco>
         <calorias>200kcal</calorias>
         <tempoPreparo>40min</tempoPreparo>
     </prato>
@@ -56,7 +56,7 @@
             <ingrediente>Arroz</ingrediente>
             <ingrediente>Arroz</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">20</preco>
+        <preco moeda="BRL">&reais; 20</preco>
         <calorias>200kcal</calorias>
         <tempoPreparo>40min</tempoPreparo>
     </prato>
