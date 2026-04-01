@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE imobiliaria [
+    <!ELEMENT imobiliaria (imovel+)>
+    <!ELEMENT imovel (descricao, proprietario, endereco, caracteristicas, valor)>
+        <!ELEMENT descricao (#PCDATA)>
+
+        <!ELEMENT proprietario (nome, (email | telefone)+)>
+            <!ELEMENT nome (#PCDATA)>
+            <!ELEMENT email (#PCDATA)>
+            <!ELEMENT telefone (#PCDATA)>
+
+        <!ELEMENT endereco (rua, bairro, cidade, numero?)>
+            <!ELEMENT rua (#PCDATA)>
+            <!ELEMENT bairro (#PCDATA)>
+            <!ELEMENT cidade (#PCDATA)>
+            <!ELEMENT numero (#PCDATA)>
+
+        <!ELEMENT caracteristicas (tamanho, numQuartos, numBanheiros)>
+            <!ELEMENT tamanho (#PCDATA)>
+            <!ELEMENT numQuartos (#PCDATA)>
+            <!ELEMENT numBanheiros (#PCDATA)>
+
+        <!ELEMENT valor (#PCDATA)>
+]>
+
+
+<imobiliaria>
+    <imovel>
+        <descricao>Apartamento de pobre</descricao>
+        <proprietario>
+            <nome>Pierre</nome>
+            <email>pierre@gmail.com</email>
+            <telefone>+55 8499999-9999</telefone>
+            <telefone>+211 55 555 5555</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua dos Santos</rua>
+            <bairro>Bairro Rafael</bairro>
+            <cidade>Boa Saúde</cidade>
+            <numero>666</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>2m²</tamanho>
+            <numQuartos>0.5</numQuartos>
+            <numBanheiros>0.5</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 2,00</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Apartamento simples</descricao>
+        <proprietario>
+            <nome>João</nome>
+            <telefone>+55 8498888-8888</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua das Flores</rua>
+            <bairro>Centro</bairro>
+            <cidade>Boa Saúde</cidade>
+            <numero>123</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>30m²</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 300,00</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Kitnet compacta</descricao>
+        <proprietario>
+            <nome>Maria</nome>
+            <email>maria@gmail.com</email>
+            <telefone>+55 8497777-7777</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua Nova</rua>
+            <bairro>Bairro Azul</bairro>
+            <cidade>Boa Saúde</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>25m²</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 250,00</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Casa pequena</descricao>
+        <proprietario>
+            <nome>Carlos</nome>
+            <email>carlos@gmail.com</email>
+        </proprietario>
+        <endereco>
+            <rua>Rua Verde</rua>
+            <bairro>Bairro Norte</bairro>
+            <cidade>Boa Saúde</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>40m²</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 500,00</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Apartamento econômico</descricao>
+        <proprietario>
+            <nome>Ana</nome>
+            <email>ana@gmail.com</email>
+            <telefone>+55 8496666-6666</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua do Sol</rua>
+            <bairro>Bairro Sul</bairro>
+            <cidade>Boa Saúde</cidade>
+            <numero>789</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>35m²</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 400,00</valor>
+    </imovel>
+</imobiliaria>
