@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio xmlns="http://cardapio.org"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://cardapio.org cardapio.xsd">
+
+    <prato id="1">
+        <nome>Risoto de Frango</nome>
+        <descricao>Uma galinha morta com arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Frango</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco>35.00</preco>
+        <calorias>200</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+
+    <prato id="2">
+        <nome>Risoto de Filé Mignon</nome>
+        <descricao>Um boi morto com arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Filé Mignon</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco>40.00</preco>
+        <calorias>200</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+
+    <prato id="3">
+        <nome>Risoto de Camarão</nome>
+        <descricao>Um camarão morto com arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Camarão</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco>45.00</preco>
+        <calorias>200</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+
+    <prato id="4">
+        <nome>Risoto de Picanha</nome>
+        <descricao>Um boi morto com arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Picanha</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco>50.00</preco>
+        <calorias>200</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+
+    <prato id="5">
+        <nome>Risoto de Risoto</nome>
+        <descricao>Arroz com mais arroz.</descricao>
+        <ingredientes>
+            <ingrediente>Arroz</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco>20.00</preco>
+        <calorias>200</calorias>
+        <tempoPreparo>40min</tempoPreparo>
+    </prato>
+</cardapio>

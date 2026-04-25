@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<quiz versao="q001"
+      xmlns="http://quiz.org"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://quiz.org quiz.xsd">
+
+    <disciplina>POS</disciplina>
+    <professor>
+        <nome>Prof. Cirilo</nome>
+        <matricula>10101</matricula>
+    </professor>
+    <turma>Info 4v</turma>
+    <data>24/04/2026</data>
+
+    <questoes>
+        <questao>
+            <enunciado>Quanto é 1 + 1?</enunciado>
+            <pontuacao>20</pontuacao>
+            <alternativas>
+                <alternativa correta="sim">2</alternativa>
+                <alternativa correta="nao">3</alternativa>
+                <alternativa correta="nao">4</alternativa>
+                <alternativa correta="nao">5</alternativa>
+            </alternativas>
+        </questao>
+
+        <questao>
+            <enunciado>Quanto é 2 + 2?</enunciado>
+            <pontuacao>20</pontuacao>
+            <alternativas>
+                <alternativa correta="nao">3</alternativa>
+                <alternativa correta="sim">4</alternativa>
+                <alternativa correta="nao">5</alternativa>
+                <alternativa correta="nao">6</alternativa>
+            </alternativas>
+        </questao>
+
+        <questao>
+            <enunciado>Quanto é 3 + 1?</enunciado>
+            <pontuacao>20</pontuacao>
+            <alternativas>
+                <alternativa correta="nao">3</alternativa>
+                <alternativa correta="sim">4</alternativa>
+                <alternativa correta="nao">5</alternativa>
+                <alternativa correta="nao">6</alternativa>
+            </alternativas>
+        </questao>
+
+        <questao>
+            <enunciado>Quanto é 5 - 2?</enunciado>
+            <pontuacao>20</pontuacao>
+            <alternativas>
+                <alternativa correta="nao">2</alternativa>
+                <alternativa correta="sim">3</alternativa>
+                <alternativa correta="nao">4</alternativa>
+                <alternativa correta="nao">5</alternativa>
+            </alternativas>
+        </questao>
+
+        <questao>
+            <enunciado>Quanto é 10 - 7?</enunciado>
+            <pontuacao>20</pontuacao>
+            <alternativas>
+                <alternativa correta="nao">1</alternativa>
+                <alternativa correta="nao">2</alternativa>
+                <alternativa correta="sim">3</alternativa>
+                <alternativa correta="nao">4</alternativa>
+            </alternativas>
+        </questao>
+    </questoes>
+</quiz>

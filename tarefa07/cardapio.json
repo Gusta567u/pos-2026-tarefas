@@ -1,0 +1,49 @@
+{
+  "cardapio": [
+    {
+      "id": 1,
+      "nome": "Risoto de Frango",
+      "descricao": "Uma galinha morta com arroz.",
+      "ingredientes": ["Frango", "Arroz"],
+      "preco": 35.00,
+      "calorias": 200,
+      "tempoPreparo": "40min"
+    },
+    {
+      "id": 2,
+      "nome": "Risoto de Filé Mignon",
+      "descricao": "Um boi morto com arroz.",
+      "ingredientes": ["Filé Mignon", "Arroz"],
+      "preco": 40.00,
+      "calorias": 200,
+      "tempoPreparo": "40min"
+    },
+    {
+      "id": 3,
+      "nome": "Risoto de Camarão",
+      "descricao": "Um camarão morto com arroz.",
+      "ingredientes": ["Camarão", "Arroz"],
+      "preco": 45.00,
+      "calorias": 200,
+      "tempoPreparo": "40min"
+    },
+    {
+      "id": 4,
+      "nome": "Risoto de Picanha",
+      "descricao": "Um boi morto com arroz.",
+      "ingredientes": ["Picanha", "Arroz"],
+      "preco": 50.00,
+      "calorias": 200,
+      "tempoPreparo": "40min"
+    },
+    {
+      "id": 5,
+      "nome": "Risoto de Risoto",
+      "descricao": "Arroz com mais arroz.",
+      "ingredientes": ["Arroz", "Arroz"],
+      "preco": 20.00,
+      "calorias": 200,
+      "tempoPreparo": "40min"
+    }
+  ]
+}

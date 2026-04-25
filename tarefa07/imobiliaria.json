@@ -1,0 +1,109 @@
+{
+  "imobiliaria": [
+    {
+      "descricao": "Apartamento de pobre",
+      "proprietario": {
+        "nome": "Pierre",
+        "email": "pierre@gmail.com",
+        "telefone": [
+          "+55 8499999-9999",
+          "+211 55 555 5555"
+        ]
+      },
+      "endereco": {
+        "rua": "Rua dos Santos",
+        "bairro": "Bairro Rafael",
+        "cidade": "Boa Saúde",
+        "numero": 666
+      },
+      "caracteristicas": {
+        "tamanho": 2,
+        "numQuartos": 1,
+        "numBanheiros": 1
+      },
+      "valor": 2.00
+    },
+    {
+      "descricao": "Apartamento simples",
+      "proprietario": {
+        "nome": "João",
+        "telefone": [
+          "+55 8498888-8888"
+        ]
+      },
+      "endereco": {
+        "rua": "Rua das Flores",
+        "bairro": "Centro",
+        "cidade": "Boa Saúde",
+        "numero": 123
+      },
+      "caracteristicas": {
+        "tamanho": 30,
+        "numQuartos": 2,
+        "numBanheiros": 2
+      },
+      "valor": 300.00
+    },
+    {
+      "descricao": "Kitnet compacta",
+      "proprietario": {
+        "nome": "Maria",
+        "email": "maria@gmail.com",
+        "telefone": [
+          "+55 8497777-7777"
+        ]
+      },
+      "endereco": {
+        "rua": "Rua Nova",
+        "bairro": "Bairro Azul",
+        "cidade": "Boa Saúde"
+      },
+      "caracteristicas": {
+        "tamanho": 25,
+        "numQuartos": 1,
+        "numBanheiros": 1
+      },
+      "valor": 250.00
+    },
+    {
+      "descricao": "Casa pequena",
+      "proprietario": {
+        "nome": "Carlos",
+        "email": "carlos@gmail.com"
+      },
+      "endereco": {
+        "rua": "Rua Verde",
+        "bairro": "Bairro Norte",
+        "cidade": "Boa Saúde"
+      },
+      "caracteristicas": {
+        "tamanho": 40,
+        "numQuartos": 2,
+        "numBanheiros": 1
+      },
+      "valor": 500.00
+    },
+    {
+      "descricao": "Apartamento econômico",
+      "proprietario": {
+        "nome": "Ana",
+        "email": "ana@gmail.com",
+        "telefone": [
+          "+55 8496666-6666"
+        ]
+      },
+      "endereco": {
+        "rua": "Rua do Sol",
+        "bairro": "Bairro Sul",
+        "cidade": "Boa Saúde",
+        "numero": 789
+      },
+      "caracteristicas": {
+        "tamanho": 35,
+        "numQuartos": 1,
+        "numBanheiros": 1
+      },
+      "valor": 400.00
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": {
+    "versao": "q001",
+    "disciplina": "POS",
+    "professor": {
+      "nome": "Prof. Cirilo",
+      "matricula": 10101
+    },
+    "turma": "Info 4v",
+    "data": "24/04/2026",
+    "questoes": [
+      {
+        "enunciado": "Quanto é 1 + 1?",
+        "pontuacao": 20,
+        "alternativas": [
+          { "correta": "sim", "valor": 2 },
+          { "correta": "nao", "valor": 3 },
+          { "correta": "nao", "valor": 4 },
+          { "correta": "nao", "valor": 5 }
+        ]
+      },
+      {
+        "enunciado": "Quanto é 2 + 2?",
+        "pontuacao": 20,
+        "alternativas": [
+          { "correta": "nao", "valor": 3 },
+          { "correta": "sim", "valor": 4 },
+          { "correta": "nao", "valor": 5 },
+          { "correta": "nao", "valor": 6 }
+        ]
+      },
+      {
+        "enunciado": "Quanto é 3 + 1?",
+        "pontuacao": 20,
+        "alternativas": [
+          { "correta": "nao", "valor": 3 },
+          { "correta": "sim", "valor": 4 },
+          { "correta": "nao", "valor": 5 },
+          { "correta": "nao", "valor": 6 }
+        ]
+      },
+      {
+        "enunciado": "Quanto é 5 - 2?",
+        "pontuacao": 20,
+        "alternativas": [
+          { "correta": "nao", "valor": 2 },
+          { "correta": "sim", "valor": 3 },
+          { "correta": "nao", "valor": 4 },
+          { "correta": "nao", "valor": 5 }
+        ]
+      },
+      {
+        "enunciado": "Quanto é 10 - 7?",
+        "pontuacao": 20,
+        "alternativas": [
+          { "correta": "nao", "valor": 1 },
+          { "correta": "nao", "valor": 2 },
+          { "correta": "sim", "valor": 3 },
+          { "correta": "nao", "valor": 4 }
+        ]
+      }
+    ]
+  }
+}
